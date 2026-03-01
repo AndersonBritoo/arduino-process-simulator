@@ -26,7 +26,7 @@ Demonstrar, em hardware real (ou simulado), conceitos de gerenciamento de proces
 
 ## Demonstração em Vídeo
 
-> ▶️ **[Assistir no YouTube](https://www.youtube.com/watch?v=SEU_LINK_AQUI)**
+> ▶️ **[Assistir no YouTube](https://youtu.be/YP7TnXW28AI)**
 
 ---
 
