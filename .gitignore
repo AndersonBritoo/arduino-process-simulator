@@ -1,0 +1,44 @@
+# Arduino IDE / PlatformIO
+*.exe
+*.bin
+*.elf
+*.hex
+*.eep
+*.map
+*.dmp
+*.tmp
+
+# Ficheiros temporários do Arduino
+*.bak
+*.tmp
+*.swp
+*.swo
+
+# Pastas de build
+/build/
+*.pio/
+
+# Arquivos do Wokwi
+*.wokwi
+wokwi-project.txt
+
+# Bibliotecas locais (pode variar, se estiverem na pasta do projeto)
+libraries/
+
+# Assets 
+assets/media/video/*
+assets/docs/*
+
+# VS Code / IDEs
+.vscode/
+*.code-workspace
+*.sublime-project
+*.sublime-workspace
+
+# Logs e depuração
+*.log
+*.out
+
+# Sistema
+.DS_Store
+Thumbs.db
