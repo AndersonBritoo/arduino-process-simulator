@@ -1,4 +1,16 @@
-# Simulador de Processos — Arduino UNO
+<h1 align="center"> Simulador de Processos — Arduino UNO</h1>
+
+<p align="center">
+  <!-- Linguagem / Plataforma -->
+  <img src="https://img.shields.io/badge/Arduino-C%2B%2B-blue" alt="Arduino C++">
+  <img src="https://img.shields.io/badge/Platform-Wokwi-lightgrey" alt="Simulador Wokwi">
+  <img src="https://img.shields.io/badge/status-complete-brightgreen" alt="Status">
+  <img src="https://img.shields.io/badge/project-academic-informational" alt="Academic Project">
+  <img href="https://opensource.org/licenses/MIT">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="MIT License">
+  <img src="https://img.shields.io/badge/made%20by-And%C3%A9rson%20Brito-orange" alt="Autor">
+  <img src="https://img.shields.io/badge/Arduino_UNO-ATmega328P-red" alt="Arduino UNO">
+</p>
 
 ## Descrição
 
